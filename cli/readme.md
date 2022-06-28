@@ -104,3 +104,21 @@ You can define the depth of the script, with anything you want. Giving you an ad
 ------Number of open ports required to NUKE: 1
 ------RAM 32GB
 ```
+
+### server-profiler.js
+
+This script will mimic the Bitburner's `ServerProfiler.exe`.
+
+Usage:
+
+`run server-profiler n00dles --tail`:
+
+```
+n00dles:
+Server base security level: 1
+Server current security level: 1.004
+Server growth rate: 3000
+Netscript hack() execution time: 7.9710 seconds
+Netscript grow() execution time: 25.507 seconds
+Netscript weaken() execution time: 31.884 seconds
+```
